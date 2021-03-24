@@ -1,5 +1,3 @@
-# INSTRUCTIONS
-Go to the TicTacToe branch instead of this Main.
 
 If you want to see and edit the code, that is all out in the open.
 
